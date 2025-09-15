@@ -1,0 +1,16 @@
+sku,type,name,size,unit,description,rrp,price,vat_rate,min_stock_qty
+TS-001,tile,Porcelain Tile White 600x600,600x600,m²,Matte finish porcelain tile,29.99,21.99,0.2,50
+TS-002,tile,Ceramic Tile Grey 300x300,300x300,m²,Glossy ceramic tile,19.99,14.5,0.2,40
+TS-003,tile,Outdoor Porcelain Tile 600x900,600x900,m²,Anti-slip outdoor porcelain tile,34.99,26.95,0.2,60
+TS-004,spc_panel,SPC Wall Panel Marble 2900x400,2900x400,panel,Marble-effect SPC waterproof panel,39.99,29.99,0.2,25
+TS-005,spc_panel,SPC Wall Panel Concrete 2900x400,2900x400,panel,Concrete-look SPC waterproof panel,37.99,27.99,0.2,25
+TS-006,acoustic_panel,Acoustic Slat Panel Oak 2400x600,2400x600,panel,Oak finish acoustic slat wall panel,54.99,42.99,0.2,15
+TS-007,acoustic_panel,Acoustic Slat Panel Walnut 2400x600,2400x600,panel,Walnut finish acoustic slat wall panel,59.99,45.99,0.2,15
+TS-008,adhesive,Tile Adhesive 20kg,,bag,Flexible tile adhesive bag,12.5,9.95,0.2,30
+TS-009,grout,Tile Grout White 5kg,,bag,Standard white tile grout,8.99,6.99,0.2,25
+TS-010,grout,Tile Grout Grey 5kg,,bag,Grey tile grout,9.5,7.25,0.2,25
+TS-011,trim,Tile Trim Silver 10mm,2.4m,unit,Aluminium silver tile trim 10mm,6.99,4.99,0.2,50
+TS-012,trim,Tile Trim Black 12mm,2.4m,unit,Aluminium black tile trim 12mm,7.5,5.25,0.2,50
+TS-013,spacer,Tile Spacers 3mm,,pack,Bag of 500 tile spacers 3mm,4.99,3.5,0.2,100
+TS-014,spacer,Tile Spacers 5mm,,pack,Bag of 500 tile spacers 5mm,5.25,3.75,0.2,100
+TS-015,accessory,Tile Levelling Clips,,pack,Pack of 250 tile levelling clips,14.99,11.99,0.2,80
